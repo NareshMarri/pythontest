@@ -1,4 +1,8 @@
 My name is marri naresh babu
 I am working in Wipro Technologies
+<<<<<<< HEAD
 I am staying in Bangalore
 I am Staying in India
+i am in Marathahalli
+=======
+>>>>>>> parent of 60670b8... Added thirdline
