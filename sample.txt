@@ -4,8 +4,10 @@ I am working in Wipro Technologies
 I am staying in Bangalore
 I am Staying in India
 i am in Marathahalli
+<<<<<<< HEAD
 I am Staying in Munnekolala Marathahalli
 I am staying in Andhara Pradesh
-I am staying in Karnataka
+=======
+>>>>>>> parent of e02f3e6... Added Marathahalli Munnekolala
 =======
 >>>>>>> parent of 60670b8... Added thirdline
