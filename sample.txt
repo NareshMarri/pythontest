@@ -6,5 +6,6 @@ I am Staying in India
 i am in Marathahalli
 I am Staying in Munnekolala Marathahalli
 I am staying in Andhara Pradesh
+I am staying in Karnataka
 =======
 >>>>>>> parent of 60670b8... Added thirdline
